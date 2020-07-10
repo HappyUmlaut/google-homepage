@@ -134,7 +134,7 @@
             <img class="logo" src="images/google_logo.png" alt="Google">
             <div class="search-area">
                 <div class="wraper">
-                    <img class="search-icon" src="/images/buscar.png">
+                    <img class="search-icon" src="images/buscar.png">
                     <input class="search" type="text" style="width: 500px;">
                 </div>
             </div>
